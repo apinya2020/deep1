@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-16T02:48:25.822Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="9KnH4n-dAZTBnAkFHRr-" version="13.0.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-16T02:57:36.604Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="HLd6ZYjEb9V6fQEiRHRw" version="13.0.9" type="github" pages="2">
   <diagram id="guKQG2VoRkvHsZvkUG5j" name="Page-1">
     <mxGraphModel dx="1102" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -63,15 +63,24 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Cgup6JTnMqHrtucPHD44" name="Page-2">
-    <mxGraphModel dx="2204" dy="1228" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1469" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="nXFAnQtlIxe_-ZrUxQ33-0" />
         <mxCell id="nXFAnQtlIxe_-ZrUxQ33-1" parent="nXFAnQtlIxe_-ZrUxQ33-0" />
         <mxCell id="EQqg7gRsF8B_bOkSzH_3-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="nXFAnQtlIxe_-ZrUxQ33-1">
-          <mxGeometry width="200" height="820" as="geometry" />
+          <mxGeometry x="40" y="80" width="200" height="720" as="geometry" />
         </mxCell>
         <mxCell id="EQqg7gRsF8B_bOkSzH_3-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="nXFAnQtlIxe_-ZrUxQ33-1">
-          <mxGeometry x="200" width="960" height="820" as="geometry" />
+          <mxGeometry x="240" y="80" width="880" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="Kk7SACaALnqBIRtvJwrx-0" value="&lt;!--StartFragment--&gt;&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #800000;&quot;&gt;&amp;lt;div&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #ff0000;&quot;&gt;class&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;&quot;aside&quot;&lt;/span&gt;&lt;span style=&quot;color: #800000;&quot;&gt;&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #800000;&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;!--EndFragment--&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="nXFAnQtlIxe_-ZrUxQ33-1">
+          <mxGeometry x="60" y="110" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Kk7SACaALnqBIRtvJwrx-1" value="&lt;!--StartFragment--&gt;&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #800000;&quot;&gt;&amp;lt;div&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #ff0000;&quot;&gt;class&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;&quot;main-content&quot;&lt;/span&gt;&lt;span style=&quot;color: #800000;&quot;&gt;&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #800000;&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;!--EndFragment--&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="nXFAnQtlIxe_-ZrUxQ33-1">
+          <mxGeometry x="890" y="100" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Kk7SACaALnqBIRtvJwrx-4" value="&lt;div style=&quot;color: rgb(0 , 0 , 0) ; background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-weight: normal ; font-size: 14px ; line-height: 19px&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #800000&quot;&gt;&amp;lt;div&lt;/span&gt;&lt;span style=&quot;color: #000000&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #ff0000&quot;&gt;class&lt;/span&gt;&lt;span style=&quot;color: #000000&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #0000ff&quot;&gt;&quot;main-container&quot;&lt;/span&gt;&lt;span style=&quot;color: #800000&quot;&gt;&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #800000&quot;&gt;&amp;lt;div&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="nXFAnQtlIxe_-ZrUxQ33-1">
+          <mxGeometry x="560" y="20" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
